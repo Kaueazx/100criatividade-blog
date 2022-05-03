@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    background: linear-gradient(180deg, #000000cc, #00000040), url(./assets/jpg/fundin.jpg);
+    color: azure;
+    padding: 180px 50px;
+    background-size: cover;
+    background-position: center;
+}
+p.boatarde{color: deeppink;}
+   p {color: aqua;}
+.content {
+    margin-top: -63px;
+    color: ghostwhite;
+    width: 80%;
+    background-color: white;
+}
+
+html {
+    background-color: rgb(221, 221, 221);
+}
