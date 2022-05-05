@@ -1,25 +1,38 @@
 header {
     text-align: center;
-    background: linear-gradient(180deg, #000000cc, #00000040), url(./assets/jpg/fundin.jpg);
+    background: linear-gradient(180deg, #000000cc, #00000040), url(./assets/jpg/fundostranger.jpg);
     color: azure;
     padding: 180px 50px;
     background-size: cover;
     background-position: center;
+    text-shadow: 1px 1px 1px #727272;
 }
-p.boatarde{color: rgb(112, 0, 0);}
-   p {color: rgb(107, 0, 71);}
+p.boatarde{color: rgb(22, 22, 22);}
+   p {color: rgb(19, 19, 19);}
 .content {
     margin-top: -63px;
-    color: ghostwhite;
+    color: rgb(145, 145, 145);
     width: 80%;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 1px 1px 20px 8px rgb(50 50 50 / 77%);
+    box-shadow: 1px 1px 20px 10px rgb(8 8 8);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+    font-family: 'Kanit';
+    font-weight: 600;
+    text-shadow: 1px 1px 1px #898989;
 }
 
 html {
-background: radial-gradient(#0000006b, #c1c1c1);
+background: radial-gradient(#0000006b, #000000);
 }
+
+.imagem {
+    width: 63%;
+}
+
+
+
+
+
